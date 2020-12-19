@@ -14,13 +14,18 @@ Have analysed the Data which is taken from kaggle website and answered questions
 
 ## About Files
 1. Data Set
-   Suicides in India 2001-2012.csv file which contain all the data for analysis
+   File name:
+   Suicides in India 2001-2012.csv
+   
+   Description:
+   Contain all the data for analysis
    
 2. Python File
-  # File Name: 
-  Project_SuicideInIndia.ipynb
-  # Description: 
-  This File Jupyter Notebook file which contains all the code for analysing the Suicide Data(2001-2012) and showed the analysis of the same.
+   File Name: 
+    Project_SuicideInIndia.ipynb
+    
+   Description: 
+    This File Jupyter Notebook file which contains all the code for analysing the Suicide Data(2001-2012) and showed the analysis of the same.
 
 # Libraries used of Python
   Used numpy,pandas,matlibpolt and seaborn libraries for analysis.
