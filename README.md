@@ -56,6 +56,7 @@ Analysis of the Suicides in India will not only help in getting to know the stat
   -Evaluate the Results
    1) Result was analyzed with the graphs and it has been clearly shown that the results was very well shown in the figure.
    2) Summary of the results have been shown in the Summary of the results column of this document.
+   3) Results with the plots was successful in order to meet the business requirements.
   
 # Summary of the Results
   Analysed these Questions :
