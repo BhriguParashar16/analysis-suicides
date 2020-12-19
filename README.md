@@ -46,7 +46,7 @@ Have analysed the Data which is taken from kaggle website and answered questions
      
    Does level of Education matters in commiting suicide.
     
-    Yes,as people with only primary suicide commit maximum suicide and least is committed by people who have done Post graduationa and above.
+    Yes,as people with only primary education suicide commit maximum suicide and least is committed by people who have done Post graduationa and above.
   
 # Acknowledgements
   1.https://www.kaggle.com/rajanand/suicides-in-india :
