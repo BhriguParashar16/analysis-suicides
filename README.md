@@ -12,6 +12,9 @@ This is a dataset which comprises of suicide data in India from year 2001-2002. 
 
 Have analysed the Data which is taken from kaggle website and answered questions which can be found relevant for analysing the suicide trend in India.
 
+## Motivation:
+Analysis of the Suicides in India will not only help in getting to know the statistics about suicides in India but also stratergizing the policies so that problem of suicides can be takled effectively.Suicides committed is not only individuaL but societal problem so analysis can give us some unknown answers which are needed.  
+
 ## About Files
 1. Data Set
    File name:
