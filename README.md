@@ -33,6 +33,30 @@ Analysis of the Suicides in India will not only help in getting to know the stat
 # Libraries used of Python
   Used numpy,pandas,matlibpolt and seaborn libraries for analysis.
   
+# CRISP-DM Process applied for Analyzing
+  
+  -Business Understanding
+   1) Needed to analyse the pattern of the suicides in India across states and majorily wanted to know the factors responsible for suicides among Women,Child and Elderly. 
+  
+  
+  -Data Understanding
+   1) For the Business question posted in Business understanding phase we have gathered data from kaggle and NCRB Database which is avlaible from Government of India.
+   2) Data which is present in the csv file contained the information about the suicides.
+   3) Data has information about the causes of suicide,state wise data,gender wise data and also age specific data.
+  
+  
+  -Prepare Data
+   1) Preparation of data was not so much hectic as it didnt contain any null values so no problem of lossing or imputation of values.
+   2) Data was original and no imputation was done.
+   
+  -Data Modeling
+   1) Problem was analysed with the help of matplot libraries and also with seaborn libraries.
+   2) Graphs have been depicted which solved the problem statement.
+   
+  -Evaluate the Results
+   1) Result was analyzed with the graphs and it has been clearly shown that the results was very well shown in the figure.
+   2) Summary of the results have been shown in the Summary of the results column of this document.
+  
 # Summary of the Results
   Analysed these Questions :
   
